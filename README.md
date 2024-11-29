@@ -70,5 +70,8 @@ After completing these steps, the project will be running on your localhost.
 - Includes require statements to prevent unauthorized access
 - Uses assert statements to verify balance calculations
 
+## Author
+Eymard Julian S. Jimeno
+
 ## License
 UNLICENSED
